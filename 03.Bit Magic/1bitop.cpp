@@ -1,7 +1,7 @@
 /*
 Bitwise operators (they work on binary representation of operators)--
 1) AND(&)-produces 1 only if both input bit is 1
-2) OR(:)-produces 1 when either of input is 1
+2) OR(|)-produces 1 when either of input is 1
 3) XOR(^)*-produces 1 when both input bits are different.
 4) LEFT SHIFT OPERATOR(<<)-add 'n' no. of zeroes at the end of binary reperesentation for n no. of shifts.
     If we assume that rhe leading y bits are 0 ,then result of (x<<y) is equivalent for x*2^y.
