@@ -1,4 +1,4 @@
-// count disting elements in an array
+// 1. count distinct elements in an array
 #include <bits/stdc++.h>
 using namespace std;
 int countdistinct(int arr[], int n)

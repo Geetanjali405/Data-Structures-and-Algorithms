@@ -1,5 +1,4 @@
 // 2.frequencies of array elements
-// count disting elements in an array
 #include <bits/stdc++.h>
 using namespace std;
 void frequency(vector<int> arr, int n)
